@@ -1,4 +1,4 @@
-def helloworld(name) :
+def helloworld(name) : #функция
     print("Hello world from " + name)
 
-helloworld(input())
+helloworld(input()) #вызов функции
