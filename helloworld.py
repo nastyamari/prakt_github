@@ -1,3 +1,4 @@
-print("Enter name: ")
-name = input()
-print("Hello world from " + name)
+def helloworld(name) : #функция
+    print("Hello world from " + name)
+
+helloworld(input()) #вызов функции
